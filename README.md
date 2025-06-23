@@ -16,6 +16,7 @@ This code is released under MIT license. See LICENSE.txt.
 ## Citation
 Please cite the following work if this code or method is used:
 
+```bibtex
 @article{Salim2025,
   title = {Super-resolution for localizing electrode grids as small,  deformable objects during epilepsy surgery using augmented reality headsets},
   ISSN = {1861-6429},
@@ -27,3 +28,4 @@ Please cite the following work if this code or method is used:
   year = {2025},
   month = jun 
 }
+  ```
